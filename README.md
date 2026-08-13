@@ -1,9 +1,9 @@
 <h2>
 Featured Projects
 <img src="https://img.shields.io/badge/Seeking%202027%20Hardware%20Roles-A8542D?style=flat-square" alt="Seeking 2027 Hardware Roles" align="right" height="32">
-<br clear="all">
-<img src="media/header_accent.svg" width="100%" height="1" alt="">
 </h2>
+
+<img src="media/header_accent.svg" width="100%" height="2" alt="">
 
 <table width="100%">
 
