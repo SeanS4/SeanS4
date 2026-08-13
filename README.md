@@ -53,7 +53,7 @@ FPGA Tetris with BRAM-backed board state, HDMI output, and ESP32 Bluetooth contr
 <img src="media/spacer.svg" width="100%" alt="">
 <a href="https://github.com/SeanS4/unix-like-operating-system"><img src="media/os.gif" width="180" height="180" alt="Unix-Like Operating System"></a>
 </div>
-RISC-V OS with user processes, Sv39 virtual memory, system calls, scheduling, drivers, and a filesystem.
+RISC-V OS with user processes, Sv39 virtual memory, system calls, preemptive scheduling, device drivers, and a filesystem.
 <br>
 <kbd>C</kbd> <kbd>Device Drivers</kbd> <kbd>Assembly</kbd> <kbd>GDB</kbd> <kbd>Virtual Memory</kbd> <kbd>VirtIO</kbd> <kbd>Traps</kbd>
 </td>
