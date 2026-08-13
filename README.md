@@ -5,9 +5,9 @@
 <tr>
 
 <td width="50%" valign="top">
-<img src="media/accent_asic.svg" width="100%" height="5" alt="">
+<img src="media/asic_accent.svg" width="100%" height="5" alt="">
 <br>
-<strong><u><a href="https://github.com/SeanS4/risc-v-asic-physical-design">RISC-V ASIC Physical Design&nbsp;&#x1F4CE;&#xFE0E;</a></u></strong><img src="https://img.shields.io/badge/ASIC%20%2F%20VLSI-D1248F?style=flat-square" alt="ASIC and VLSI" align="right">
+<strong><u><a href="https://github.com/SeanS4/risc-v-asic-physical-design">RISC-V ASIC Physical Design&nbsp;&#x1F4CE;&#xFE0E;</a></u></strong><img src="https://img.shields.io/badge/ASIC%20%2F%20VLSI-6B2F45?style=flat-square" alt="ASIC and VLSI" align="right">
 <br clear="all">
 <div align="center">
 <img src="media/spacer_2.svg" width="100%" alt="">
@@ -19,9 +19,9 @@ Bit-sliced RISC-V datapath with custom standard cells and automated physical des
 </td>
 
 <td width="50%" valign="top">
-<img src="media/accent_fpga.svg" width="100%" height="5" alt="">
+<img src="media/fpga_accent.svg" width="100%" height="5" alt="">
 <br>
-<strong><u><a href="https://github.com/SeanS4/bluetooth-fpga-tetris">Bluetooth-Controlled FPGA Tetris&nbsp;&#x1F4CE;&#xFE0E;</a></u></strong><img src="https://img.shields.io/badge/FPGA%20%2B%20EMBEDDED-0969DA?style=flat-square" alt="FPGA and Embedded" align="right">
+<strong><u><a href="https://github.com/SeanS4/bluetooth-fpga-tetris">Bluetooth-Controlled FPGA Tetris&nbsp;&#x1F4CE;&#xFE0E;</a></u></strong><img src="https://img.shields.io/badge/FPGA%20%2B%20EMBEDDED-46586C?style=flat-square" alt="FPGA and Embedded" align="right">
 <br clear="all">
 <div align="center">
 <img src="media/spacer_2.svg" width="100%" alt="">
@@ -39,9 +39,9 @@ FPGA Tetris with BRAM-backed board state, HDMI output, and ESP32 Bluetooth contr
 <tr>
 
 <td width="50%" valign="top">
-<img src="media/accent_os.svg" width="100%" height="5" alt="">
+<img src="media/os_accent.svg" width="100%" height="5" alt="">
 <br>
-<strong><u><a href="https://github.com/SeanS4/unix-like-operating-system">Unix-Like Operating System&nbsp;&#x1F4CE;&#xFE0E;</a></u></strong><img src="https://img.shields.io/badge/OPERATING%20SYSTEMS-238636?style=flat-square" alt="Operating Systems" align="right">
+<strong><u><a href="https://github.com/SeanS4/unix-like-operating-system">Unix-Like Operating System&nbsp;&#x1F4CE;&#xFE0E;</a></u></strong><img src="https://img.shields.io/badge/OPERATING%20SYSTEMS-283727?style=flat-square" alt="Operating Systems" align="right">
 <br clear="all">
 <div align="center">
 <img src="media/spacer_2.svg" width="100%" alt="">
@@ -53,9 +53,9 @@ RISC-V OS with user processes, Sv39 virtual memory, system calls, scheduling, dr
 </td>
 
 <td width="50%" valign="top">
-<img src="media/accent_micro.svg" width="100%" height="5" alt="">
+<img src="media/micro_accent.svg" width="100%" height="5" alt="">
 <br>
-<strong><u><a href="https://github.com/SeanS4/rv32im-out-of-order-processor">Out-of-Order RV32IM Processor&nbsp;&#x1F4CE;&#xFE0E;</a></u></strong><img src="https://img.shields.io/badge/MICROARCHITECTURE-7C3AED?style=flat-square" alt="Microarchitecture" align="right">
+<strong><u><a href="https://github.com/SeanS4/rv32im-out-of-order-processor">Out-of-Order RV32IM Processor&nbsp;&#x1F4CE;&#xFE0E;</a></u></strong><img src="https://img.shields.io/badge/MICROARCHITECTURE-523E2F?style=flat-square" alt="Microarchitecture" align="right">
 <br clear="all">
 <div align="center">
 <img src="media/spacer_2.svg" width="100%" alt="">
