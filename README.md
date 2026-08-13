@@ -33,7 +33,7 @@ Bit-sliced RISC-V datapath built with custom standard cells, alongside automated
 <img src="media/spacer.svg" width="100%" alt="">
 <a href="https://github.com/SeanS4/bluetooth-fpga-tetris"><img src="media/tetris.gif" width="180" height="180" alt="Bluetooth-Controlled FPGA Tetris"></a>
 </div>
-FPGA Tetris with BRAM-backed board state, HDMI output, and ESP32 Bluetooth controls.
+FPGA Tetris with BRAM-backed board state and HDMI output, plus an ESP32 microcontroller that processes Bluetooth commands from an iOS device.
 <br>
 <kbd>SystemVerilog</kbd> <kbd>Vivado</kbd> <kbd>ESP32</kbd> <kbd>C++</kbd> <kbd>BRAM</kbd> <kbd>HDMI</kbd> <kbd>Timing Closure</kbd>
 </td>
