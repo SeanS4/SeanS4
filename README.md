@@ -15,7 +15,7 @@
 <br clear="all">
 
 <div align="center">
-<img src="media/spacer_6.svg" width="100%" height="6" alt="">
+<img src="media/spacer_6.svg" width="100%" height="2" alt="">
 <a href="https://github.com/SeanS4/risc-v-asic-physical-design">
 <img src="media/asic.png"
      width="180"
@@ -47,7 +47,7 @@
 <br clear="all">
 
 <div align="center">
-<img src="media/spacer_6.svg" width="100%" height="6" alt="">
+<img src="media/spacer_6.svg" width="100%" height="2" alt="">
 <a href="https://github.com/SeanS4/bluetooth-fpga-tetris">
 <img src="media/tetris.gif"
      width="180"
@@ -83,7 +83,7 @@
 <br clear="all">
 
 <div align="center">
-<img src="media/spacer_6.svg" width="100%" height="6" alt="">
+<img src="media/spacer_6.svg" width="100%" height="2" alt="">
 <a href="https://github.com/SeanS4/unix-like-operating-system">
 <img src="media/os.gif"
      width="180"
@@ -115,7 +115,7 @@
 <br clear="all">
 
 <div align="center">
-<img src="media/spacer_6.svg" width="100%" height="6" alt="">
+<img src="media/spacer_6.svg" width="100%" height="2" alt="">
 <a href="https://github.com/SeanS4/rv32im-out-of-order-processor">
 <img src="media/ooo.png"
      width="180"
