@@ -69,7 +69,7 @@ RISC-V OS with user processes, Sv39 virtual memory, system calls, preemptive sch
 </div>
 Synthesizable RV32IM core with register renaming, dynamic scheduling, an LSQ/ROB, and precise in-order retirement.
 <br>
-<kbd>SystemVerilog</kbd> <kbd>Synopsys VCS/DC</kbd> <kbd>Verdi</kbd> <kbd>L1 Cache</kbd> <kbd>TAGE/BTB</kbd>
+<kbd>SystemVerilog</kbd> <kbd>Synopsys VCS/DC</kbd> <kbd>Verdi</kbd> <kbd>SpyGlass Lint</kbd> <kbd>L1 Cache</kbd> 
 </td>
 
 </tr>
