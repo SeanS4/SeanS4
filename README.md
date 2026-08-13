@@ -1,11 +1,10 @@
-<div align="center">
-<strong>Seeking 2027 Hardware Roles</strong>
+<h2>
+Featured Projects
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Seeking-2027%20Hardware%20Roles-31462C?style=flat-square" alt="Seeking 2027 Hardware Roles">
 <img src="https://komarev.com/ghpvc/?username=SeanS4&label=Profile%20Visits&color=4E6376&style=flat-square" alt="Profile Visits" align="right">
-</div>
+</h2>
 
-<br clear="all">
-
-<h2>Featured Projects</h2>
 <table width="100%">
 
 <tbody>
