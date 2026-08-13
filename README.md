@@ -4,7 +4,7 @@
 <tr>
 <td width="18%" valign="middle">
 <a href="https://github.com/SeanS4/rv32im-out-of-order-processor">
-<img src="media/ooo.png" width="160" alt="Out-of-Order RV32IM Processor">
+<img src="media/test.png" width="160" alt="Out-of-Order RV32IM Processor">
 </a>
 </td>
 <td width="29%" valign="middle">
