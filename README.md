@@ -18,7 +18,7 @@ Featured Projects
 <img src="media/spacer.svg" width="100%" alt="">
 <a href="https://github.com/SeanS4/riscv-asic-physical-design"><img src="media/asic.png" width="180" height="180" alt="RISC-V Processor Physical Design"></a>
 </div>
-Bit-sliced RISC-V datapath built with custom standard cells, alongside automated physical design in Cadence Innovus.
+Bit-sliced RISC-V datapath built with custom standard cells, alongside automated place and route in Cadence Innovus.
 <br>
 <kbd>Virtuoso</kbd> <kbd>Innovus</kbd> <kbd>Calibre</kbd> <kbd>DRC/LVS</kbd> <kbd>CMOS</kbd> <kbd>Tcl</kbd> <kbd>FreePDK45</kbd>
 </td>
