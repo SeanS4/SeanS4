@@ -1,6 +1,9 @@
 <h2>Featured Projects</h2>
 <table width="100%">
+
+<tbody>
 <tr>
+
 <td width="50%" valign="top">
 <img src="media/accent_asic.svg" width="100%" height="5" alt="">
 <br>
@@ -28,9 +31,13 @@ FPGA Tetris with BRAM-backed board state, HDMI output, and ESP32 Bluetooth contr
 <br>
 <kbd>SystemVerilog</kbd> <kbd>FPGA</kbd> <kbd>BRAM</kbd> <kbd>HDMI</kbd> <kbd>ESP32</kbd>
 </td>
-</tr>
 
+</tr>
+</tbody>
+
+<tbody>
 <tr>
+
 <td width="50%" valign="top">
 <img src="media/accent_os.svg" width="100%" height="5" alt="">
 <br>
@@ -58,5 +65,8 @@ RV32IM core with register renaming, dynamic scheduling, an LSQ/ROB, and precise 
 <br>
 <kbd>SystemVerilog</kbd> <kbd>RISC-V</kbd> <kbd>RTL</kbd> <kbd>OoO</kbd>
 </td>
+
 </tr>
+</tbody>
+
 </table>
