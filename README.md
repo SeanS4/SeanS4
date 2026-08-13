@@ -7,7 +7,7 @@
 <td width="50%" valign="top">
 <img src="media/asic_accent.svg" width="100%" height="5" alt="">
 <br>
-<u><a href="https://github.com/SeanS4/risc-v-asic-physical-design">RISC-V Processor Physical Design&nbsp;&#x1F4CE;&#xFE0E;</a></u><img <u><a href="https://github.com/SeanS4/risc-v-asic-physical-design">RISC-V Processor Physical Design&nbsp;&#x1F4CE;&#xFE0E;</a></u><img src="https://img.shields.io/badge/ASIC%20%2F%20VLSI-6B2F45?style=flat-square" alt="ASIC / VLSI" align="right" height="23">
+<u><a href="https://github.com/SeanS4/risc-v-asic-physical-design">RISC-V Processor Physical Design&nbsp;&#x1F4CE;&#xFE0E;</a></u><img <u><a href="https://github.com/SeanS4/risc-v-asic-physical-design">RISC-V Processor Physical Design&nbsp;&#x1F4CE;&#xFE0E;</a></u><img src="https://img.shields.io/badge/ASIC%20%2F%20VLSI-6B2F45?style=flat-square" alt="ASIC / VLSI" align="right" height="22">
 <br clear="all">
 <div align="center">
 <img src="media/spacer.svg" width="100%" alt="">
