@@ -6,7 +6,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/SeanS4/bluetooth-fpga-tetris">
-    <img src="media/tetris.gif" height="210" alt="Bluetooth-Controlled FPGA Tetris">
+    <img src="media/test.gif" height="210" alt="Bluetooth-Controlled FPGA Tetris">
   </a>
   <br>
   <a href="https://github.com/SeanS4/rv32im-out-of-order-processor"><b>Out-of-Order RV32IM Processor</b></a>
