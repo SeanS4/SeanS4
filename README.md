@@ -3,7 +3,7 @@
 <table width="100%" border="2">
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/SeanS4/rv32im-out-of-order-processor"><img src="media/ooo.png" width="150" align="left" hspace="12" alt="Out-of-Order RV32IM Processor"></a>
+<a href="https://github.com/SeanS4/rv32im-out-of-order-processor"><img src="media/test.png" width="150" align="left" hspace="12" alt="Out-of-Order RV32IM Processor"></a>
 <strong><a href="https://github.com/SeanS4/rv32im-out-of-order-processor">Out-of-Order RV32IM Processor ↗</a></strong>
 <br>
 <img src="https://img.shields.io/badge/-MICROARCHITECTURE-7C3AED?style=flat-square" alt="Microarchitecture">
