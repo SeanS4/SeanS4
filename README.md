@@ -1,8 +1,10 @@
 <h2>Featured Projects</h2>
 
-<table align="left" width="48%" height="315" border="2" frame="box" rules="none">
+<table width="100%" border="2" frame="box" rules="cols">
 <tr>
-<td valign="top">
+
+<!-- OOO PROCESSOR -->
+<td width="50%" valign="top">
 
 <img src="https://img.shields.io/badge/MICROARCHITECTURE-7C3AED?style=flat-square"
      alt="Microarchitecture"
@@ -38,12 +40,9 @@ Synthesizable 32-bit RISC-V processor with register renaming, dynamic scheduling
 <kbd>OoO</kbd>
 
 </td>
-</tr>
-</table>
 
-<table align="right" width="48%" height="315" border="2" frame="box" rules="none">
-<tr>
-<td valign="top">
+<!-- FPGA TETRIS -->
+<td width="50%" valign="top">
 
 <img src="https://img.shields.io/badge/FPGA%20%2B%20EMBEDDED-0969DA?style=flat-square"
      alt="FPGA and Embedded"
@@ -80,15 +79,17 @@ Hardware Tetris engine with BRAM-backed board state, real-time HDMI output, and 
 <kbd>ESP32</kbd>
 
 </td>
+
 </tr>
 </table>
 
-<br clear="all">
 <br>
 
-<table align="left" width="48%" height="315" border="2" frame="box" rules="none">
+<table width="100%" border="2" frame="box" rules="cols">
 <tr>
-<td valign="top">
+
+<!-- OPERATING SYSTEM -->
+<td width="50%" valign="top">
 
 <img src="https://img.shields.io/badge/OPERATING%20SYSTEMS-238636?style=flat-square"
      alt="Operating Systems"
@@ -125,12 +126,9 @@ RISC-V operating system with user processes, Sv39 virtual memory, system calls, 
 <kbd>QEMU</kbd>
 
 </td>
-</tr>
-</table>
 
-<table align="right" width="48%" height="315" border="2" frame="box" rules="none">
-<tr>
-<td valign="top">
+<!-- ASIC / VLSI -->
+<td width="50%" valign="top">
 
 <img src="https://img.shields.io/badge/ASIC%20%2F%20VLSI-D1248F?style=flat-square"
      alt="ASIC and VLSI"
@@ -167,7 +165,6 @@ RISC-V ASIC Physical Design
 <kbd>ASIC</kbd>
 
 </td>
+
 </tr>
 </table>
-
-<br clear="all">
