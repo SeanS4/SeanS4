@@ -15,7 +15,7 @@
 <br clear="all">
 
 <div align="center">
-<img src="media/spacer_6.svg" width="100%" height="2" alt="">
+<img src="media/spacer_6.svg" width="100%" height="0.5" alt="">
 <a href="https://github.com/SeanS4/risc-v-asic-physical-design">
 <img src="media/asic.png"
      width="180"
