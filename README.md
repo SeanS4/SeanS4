@@ -1,3 +1,10 @@
+<div align="center">
+<strong>Seeking 2027 Hardware Roles</strong>
+<img src="https://komarev.com/ghpvc/?username=SeanS4&label=Profile%20Visits&color=4E6376&style=flat-square" alt="Profile Visits" align="right">
+</div>
+
+<br clear="all">
+
 <h2>Featured Projects</h2>
 <table width="100%">
 
@@ -13,7 +20,7 @@
 <img src="media/spacer.svg" width="100%" alt="">
 <a href="https://github.com/SeanS4/riscv-asic-physical-design"><img src="media/asic.png" width="180" height="180" alt="RISC-V Processor Physical Design"></a>
 </div>
-Bit-sliced RISC-V datapath with custom standard cells and automated physical design in Cadence Innovus.
+Bit-sliced RISC-V datapath built with custom standard cells and automated place and route in Cadence Innovus.
 <br>
 <kbd>Virtuoso</kbd> <kbd>Innovus</kbd> <kbd>Calibre</kbd> <kbd>DRC/LVS</kbd> <kbd>CMOS</kbd> <kbd>Tcl</kbd> <kbd>FreePDK45</kbd>
 </td>
@@ -29,7 +36,7 @@ Bit-sliced RISC-V datapath with custom standard cells and automated physical des
 </div>
 FPGA Tetris with BRAM-backed board state, HDMI output, and ESP32 Bluetooth controls.
 <br>
-<kbd>SystemVerilog</kbd> <kbd>Vivado</kbd> <kbd>ESP32</kbd> <kbd>C++</kbd> <kbd>BRAM</kbd> <kbd>HDMI</kbd> <kbd>Timing Closure</kbd> 
+<kbd>SystemVerilog</kbd> <kbd>Vivado</kbd> <kbd>ESP32</kbd> <kbd>C++</kbd> <kbd>BRAM</kbd> <kbd>HDMI</kbd> <kbd>Timing Closure</kbd>
 </td>
 
 </tr>
