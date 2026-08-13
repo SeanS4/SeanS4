@@ -29,7 +29,7 @@ Bit-sliced RISC-V datapath with custom standard cells and automated physical des
 </div>
 FPGA Tetris with BRAM-backed board state, HDMI output, and ESP32 Bluetooth controls.
 <br>
-<kbd>SystemVerilog</kbd> <kbd>Vivado</kbd> <kbd>ESP32 MCU</kbd> <kbd>C++</kbd> <kbd>BRAM</kbd> <kbd>HDMI</kbd> <kbd>Spartan-7</kbd> 
+<kbd>SystemVerilog</kbd> <kbd>Vivado</kbd> <kbd>ESP32 MCU</kbd> <kbd>C++</kbd> <kbd>BRAM</kbd> <kbd>HDMI</kbd> <kbd>Timing Closure</kbd> 
 </td>
 
 </tr>
