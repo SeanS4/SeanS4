@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/SeanS4/rv32im-out-of-order-processor">
-    <img src="media/ooo.png" height="210" alt="Out-of-Order RV32IM Processor">
+    <img src="media/ooo2.png" height="210" alt="Out-of-Order RV32IM Processor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/SeanS4/bluetooth-fpga-tetris">
