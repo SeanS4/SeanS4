@@ -10,17 +10,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/ASIC%20%2F%20VLSI-D1248F?style=flat-square"
-     alt="ASIC and VLSI"
-     align="right">
-
-<strong>
-<u>
-<a href="https://github.com/SeanS4/risc-v-asic-physical-design">
-RISC-V ASIC Physical Design&nbsp;&#x1F4CE;&#xFE0E;
-</a>
-</u>
-</strong>
+<strong><u><a href="https://github.com/SeanS4/risc-v-asic-physical-design">RISC-V ASIC Physical Design&nbsp;&#x1F4CE;&#xFE0E;</a></u></strong><img src="https://img.shields.io/badge/ASIC%20%2F%20VLSI-D1248F?style=flat-square" alt="ASIC and VLSI" align="right">
 
 <br clear="all">
 
@@ -52,17 +42,7 @@ RISC-V ASIC Physical Design&nbsp;&#x1F4CE;&#xFE0E;
 
 <br>
 
-<img src="https://img.shields.io/badge/FPGA%20%2B%20EMBEDDED-0969DA?style=flat-square"
-     alt="FPGA and Embedded"
-     align="right">
-
-<strong>
-<u>
-<a href="https://github.com/SeanS4/bluetooth-fpga-tetris">
-Bluetooth-Controlled FPGA Tetris&nbsp;&#x1F4CE;&#xFE0E;
-</a>
-</u>
-</strong>
+<strong><u><a href="https://github.com/SeanS4/bluetooth-fpga-tetris">Bluetooth-Controlled FPGA Tetris&nbsp;&#x1F4CE;&#xFE0E;</a></u></strong><img src="https://img.shields.io/badge/FPGA%20%2B%20EMBEDDED-0969DA?style=flat-square" alt="FPGA and Embedded" align="right">
 
 <br clear="all">
 
@@ -98,17 +78,7 @@ Bluetooth-Controlled FPGA Tetris&nbsp;&#x1F4CE;&#xFE0E;
 
 <br>
 
-<img src="https://img.shields.io/badge/OPERATING%20SYSTEMS-238636?style=flat-square"
-     alt="Operating Systems"
-     align="right">
-
-<strong>
-<u>
-<a href="https://github.com/SeanS4/unix-like-operating-system">
-Unix-Like Operating System&nbsp;&#x1F4CE;&#xFE0E;
-</a>
-</u>
-</strong>
+<strong><u><a href="https://github.com/SeanS4/unix-like-operating-system">Unix-Like Operating System&nbsp;&#x1F4CE;&#xFE0E;</a></u></strong><img src="https://img.shields.io/badge/OPERATING%20SYSTEMS-238636?style=flat-square" alt="Operating Systems" align="right">
 
 <br clear="all">
 
@@ -140,17 +110,7 @@ Unix-Like Operating System&nbsp;&#x1F4CE;&#xFE0E;
 
 <br>
 
-<img src="https://img.shields.io/badge/MICROARCHITECTURE-7C3AED?style=flat-square"
-     alt="Microarchitecture"
-     align="right">
-
-<strong>
-<u>
-<a href="https://github.com/SeanS4/rv32im-out-of-order-processor">
-Out-of-Order RV32IM Processor&nbsp;&#x1F4CE;&#xFE0E;
-</a>
-</u>
-</strong>
+<strong><u><a href="https://github.com/SeanS4/rv32im-out-of-order-processor">Out-of-Order RV32IM Processor&nbsp;&#x1F4CE;&#xFE0E;</a></u></strong><img src="https://img.shields.io/badge/MICROARCHITECTURE-7C3AED?style=flat-square" alt="Microarchitecture" align="right">
 
 <br clear="all">
 
