@@ -67,7 +67,7 @@ RISC-V OS with user processes, Sv39 virtual memory, system calls, preemptive sch
 <img src="media/spacer.svg" width="100%" alt="">
 <a href="https://github.com/SeanS4/rv32im-out-of-order-processor"><img src="media/ooo.png" width="180" height="180" alt="Out-of-Order Processor"></a>
 </div>
-RV32IM core with register renaming, dynamic scheduling, an LSQ/ROB, and precise in-order retirement.
+Synthesizable RV32IM core with register renaming, dynamic scheduling, an LSQ/ROB, and precise in-order retirement.
 <br>
 <kbd>SystemVerilog</kbd> <kbd>Synopsys VCS/DC</kbd> <kbd>Verdi</kbd> <kbd>L1 Cache</kbd> <kbd>TAGE/BTB</kbd>
 </td>
