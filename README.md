@@ -26,7 +26,6 @@ RISC-V ASIC Physical Design&nbsp;&#x1F4CE;&#xFE0E;
 
 <div align="center">
 <img src="media/spacer_6.svg" width="100%" height="6" alt="">
-<img src="media/spacer_6.svg" width="100%" height="6" alt="">
 <a href="https://github.com/SeanS4/risc-v-asic-physical-design">
 <img src="media/asic.png"
      width="180"
@@ -68,7 +67,6 @@ Bluetooth-Controlled FPGA Tetris&nbsp;&#x1F4CE;&#xFE0E;
 <br clear="all">
 
 <div align="center">
-<img src="media/spacer_6.svg" width="100%" height="6" alt="">
 <img src="media/spacer_6.svg" width="100%" height="6" alt="">
 <a href="https://github.com/SeanS4/bluetooth-fpga-tetris">
 <img src="media/tetris.gif"
@@ -116,7 +114,6 @@ Unix-Like Operating System&nbsp;&#x1F4CE;&#xFE0E;
 
 <div align="center">
 <img src="media/spacer_6.svg" width="100%" height="6" alt="">
-<img src="media/spacer_6.svg" width="100%" height="6" alt="">
 <a href="https://github.com/SeanS4/unix-like-operating-system">
 <img src="media/os.gif"
      width="180"
@@ -158,7 +155,6 @@ Out-of-Order RV32IM Processor&nbsp;&#x1F4CE;&#xFE0E;
 <br clear="all">
 
 <div align="center">
-<img src="media/spacer_6.svg" width="100%" height="6" alt="">
 <img src="media/spacer_6.svg" width="100%" height="6" alt="">
 <a href="https://github.com/SeanS4/rv32im-out-of-order-processor">
 <img src="media/ooo.png"
