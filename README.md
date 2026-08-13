@@ -1,8 +1,6 @@
 <h2>
 Featured Projects
-&nbsp;&nbsp;&nbsp;
-<small>Seeking 2027 Hardware Roles</small>
-<img src="https://komarev.com/ghpvc/?username=SeanS4&label=Profile%20Visits&color=4E6376&style=flat-square" alt="Profile Visits" align="right">
+<img src="https://img.shields.io/badge/Seeking%202027%20Hardware%20Roles-31462C?style=flat-square" alt="Seeking 2027 Hardware Roles" align="right" height="22">
 </h2>
 
 <table width="100%">
@@ -69,7 +67,7 @@ RISC-V OS with user processes, Sv39 virtual memory, system calls, preemptive sch
 </div>
 Synthesizable RV32IM core with register renaming, dynamic scheduling, an LSQ/ROB, and precise in-order retirement.
 <br>
-<kbd>SystemVerilog</kbd> <kbd>Synopsys VCS/DC</kbd> <kbd>Verdi</kbd> <kbd>SpyGlass Lint</kbd> <kbd>L1 Cache</kbd> 
+<kbd>SystemVerilog</kbd> <kbd>Synopsys VCS/DC</kbd> <kbd>Verdi</kbd> <kbd>SpyGlass Lint</kbd> <kbd>L1 Cache</kbd>
 </td>
 
 </tr>
