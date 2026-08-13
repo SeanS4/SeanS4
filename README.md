@@ -29,7 +29,7 @@ Bit-sliced RISC-V datapath with custom standard cells and automated physical des
 </div>
 FPGA Tetris with BRAM-backed board state, HDMI output, and ESP32 Bluetooth controls.
 <br>
-<kbd>SystemVerilog</kbd> <kbd>Vivado</kbd> <kbd>ESP32 MCU</kbd> <kbd>C++</kbd> <kbd>BRAM</kbd> <kbd>HDMI</kbd> <kbd>Timing Closure</kbd> 
+<kbd>SystemVerilog</kbd> <kbd>Vivado</kbd> <kbd>ESP32</kbd> <kbd>C++</kbd> <kbd>BRAM</kbd> <kbd>HDMI</kbd> <kbd>Timing Closure</kbd> 
 </td>
 
 </tr>
@@ -49,7 +49,7 @@ FPGA Tetris with BRAM-backed board state, HDMI output, and ESP32 Bluetooth contr
 </div>
 RISC-V OS with user processes, Sv39 virtual memory, system calls, scheduling, drivers, and a filesystem.
 <br>
-<kbd>C</kbd> <kbd>Device Drivers</kbd> <kbd>Assembly</kbd> <kbd>GDB</kbd> <kbd>Virtual Memory</kbd> <kbd>VirtIO</kbd> <kbd>Scheduling</kbd>
+<kbd>C</kbd> <kbd>Device Drivers</kbd> <kbd>Assembly</kbd> <kbd>GDB</kbd> <kbd>Virtual Memory</kbd> <kbd>VirtIO</kbd> <kbd>Traps</kbd>
 </td>
 
 <td width="50%" valign="top">
@@ -63,7 +63,7 @@ RISC-V OS with user processes, Sv39 virtual memory, system calls, scheduling, dr
 </div>
 RV32IM core with register renaming, dynamic scheduling, an LSQ/ROB, and precise in-order retirement.
 <br>
-<kbd>SystemVerilog</kbd> <kbd>Synopsys VCS/DC</kbd> <kbd>Verdi</kbd> <kbd>L1 Cache</kbd> <kbd>TAGE/BTB</kbd> <kbd>RV32IM</kbd>
+<kbd>SystemVerilog</kbd> <kbd>Synopsys VCS/DC</kbd> <kbd>Verdi</kbd> <kbd>L1 Cache</kbd> <kbd>TAGE/BTB</kbd>
 </td>
 
 </tr>
