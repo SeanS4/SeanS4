@@ -55,7 +55,7 @@ FPGA Tetris with BRAM-backed board state and HDMI output; ESP32 microcontroller 
 </div>
 RISC-V OS with user processes, Sv39 virtual memory, system calls, preemptive scheduling, device drivers, and a filesystem.
 <br>
-<kbd>C</kbd> <kbd>Device Drivers</kbd> <kbd>Assembly</kbd> <kbd>GDB</kbd> <kbd>UART</kbd> <kbd>VirtIO</kbd> <kbd>Traps</kbd>
+<kbd>C</kbd> <kbd>Device Drivers</kbd> <kbd>Assembly</kbd> <kbd>GDB</kbd> <kbd>UART</kbd> <kbd>VirtIO</kbd> <kbd>Trap Handling</kbd>
 </td>
 
 <td width="50%" valign="top">
